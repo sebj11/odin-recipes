@@ -1,0 +1,34 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.subheading {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.subheadtwo {
+    font-size: 16px;
+}
+
+#method {
+    font-style: italic;
+}
+
+li {
+    color: brown;
+}
+
+ol li {
+    color: blue;
+}

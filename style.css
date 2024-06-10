@@ -1,0 +1,14 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.recipe a {
+    font-weight: bold;
+    color: white;
+}
